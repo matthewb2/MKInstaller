@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\bin\Debug\MKInstaller.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\bin\Debug\MKInstaller.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\bin\Debug\MKInstaller.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\obj\Debug\MKInstaller.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\obj\Debug\MKInstaller.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\obj\Debug\MKInstaller.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\obj\Debug\MKInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\obj\Debug\MKInstaller.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\obj\Debug\MKInstaller.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\obj\Debug\MKInstaller.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MKInstaller\MKInstaller\obj\Debug\MKInstaller.csprojAssemblyReference.cache
