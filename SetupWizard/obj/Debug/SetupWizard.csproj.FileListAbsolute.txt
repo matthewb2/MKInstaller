@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\SetupWizard\SetupWizard\obj\Debug\SetupWizard.Form1.resources
+C:\Users\Administrator\source\repos\SetupWizard\SetupWizard\obj\Debug\SetupWizard.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SetupWizard\SetupWizard\obj\Debug\SetupWizard.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SetupWizard\SetupWizard\obj\Debug\SetupWizard.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SetupWizard\SetupWizard\bin\Debug\SetupWizard.exe.config
+C:\Users\Administrator\source\repos\SetupWizard\SetupWizard\bin\Debug\SetupWizard.exe
+C:\Users\Administrator\source\repos\SetupWizard\SetupWizard\bin\Debug\SetupWizard.pdb
+C:\Users\Administrator\source\repos\SetupWizard\SetupWizard\obj\Debug\SetupWizard.exe
+C:\Users\Administrator\source\repos\SetupWizard\SetupWizard\obj\Debug\SetupWizard.pdb
